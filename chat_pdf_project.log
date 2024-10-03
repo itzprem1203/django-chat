@@ -1,0 +1,29 @@
+2024-10-03 17:03:51,542 - chat_pdf_logger - INFO - Extracted text from UploadedFile(file_id='31e5ff89-5d3b-41b0-91ad-1b8356c9dd02', name='general_science.pdf', type='application/pdf', size=1032625, _file_urls=file_id: "31e5ff89-5d3b-41b0-91ad-1b8356c9dd02"
+upload_url: "/_stcore/upload_file/50b74962-c778-48ec-a6c7-20f9f1c671f3/31e5ff89-5d3b-41b0-91ad-1b8356c9dd02"
+delete_url: "/_stcore/upload_file/50b74962-c778-48ec-a6c7-20f9f1c671f3/31e5ff89-5d3b-41b0-91ad-1b8356c9dd02"
+). Total pages: 28
+2024-10-03 17:03:51,567 - chat_pdf_logger - INFO - Number of text chunks created: 10
+2024-10-03 17:03:57,529 - chat_pdf_logger - INFO - Vector store created successfully.
+2024-10-03 17:03:57,537 - chat_pdf_logger - INFO - Total number of texts in the vector store: 10
+2024-10-03 17:03:57,575 - chat_pdf_logger - INFO - Vector store saved locally at 'faiss_index'.
+2024-10-03 17:05:17,361 - chat_pdf_logger - INFO - Audio data captured for speech recognition.
+2024-10-03 17:05:18,149 - chat_pdf_logger - WARNING - Could not understand the audio.
+2024-10-03 17:05:40,265 - chat_pdf_logger - INFO - Audio data captured for speech recognition.
+2024-10-03 17:05:42,798 - chat_pdf_logger - INFO - Voice Input Recognized: what is your name
+2024-10-03 17:05:42,816 - chat_pdf_logger - INFO - Query: what is your name
+2024-10-03 17:05:42,816 - chat_pdf_logger - INFO - Reply: My name is Prem's AI Assistant, a helpful assistant for you!
+2024-10-03 17:05:42,816 - chat_pdf_logger - WARNING - Attempted to start speaking while another speech is active.
+2024-10-03 17:05:48,128 - chat_pdf_logger - INFO - Spoken response: My name is Prem's AI Assistant, a helpful assistant for you!
+2024-10-03 17:06:30,629 - chat_pdf_logger - INFO - Audio data captured for speech recognition.
+2024-10-03 17:06:31,545 - chat_pdf_logger - INFO - Voice Input Recognized: topless effect
+2024-10-03 17:06:31,545 - chat_pdf_logger - INFO - Query: topless effect
+2024-10-03 17:06:33,438 - chat_pdf_logger - INFO - PDF conversational chain created successfully.
+2024-10-03 17:06:40,262 - chat_pdf_logger - INFO - Reply: 
+2024-10-03 17:06:40,800 - chat_pdf_logger - INFO - Spoken response: 
+2024-10-03 17:07:07,532 - chat_pdf_logger - INFO - Audio data captured for speech recognition.
+2024-10-03 17:07:08,608 - chat_pdf_logger - INFO - Voice Input Recognized: doppler's effect
+2024-10-03 17:07:08,608 - chat_pdf_logger - INFO - Query: doppler's effect
+2024-10-03 17:07:10,380 - chat_pdf_logger - INFO - PDF conversational chain created successfully.
+2024-10-03 17:07:15,266 - chat_pdf_logger - INFO - Reply: If there is a relative motion between source of sound and observer, the apparent frequency of sound heard by the observer is different from the actual frequency of sound emitted by the source. 1 his phenomenon is called Doppler's Effect .
+2024-10-03 17:07:15,282 - chat_pdf_logger - WARNING - Attempted to start speaking while another speech is active.
+2024-10-03 17:07:27,074 - chat_pdf_logger - INFO - Spoken response: If there is a relative motion between source of sound and observer, the apparent frequency of sound heard by the observer is different from the actual frequency of sound emitted by the source. 1 his phenomenon is called Doppler's Effect .
